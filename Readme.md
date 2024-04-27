@@ -1,9 +1,7 @@
 # SUPER MIRAO
 
 
-| Image 1                                   | Image 2                                   |
-|-------------------------------------------|-------------------------------------------|
-| ![Game Screen 1](https://github.com/abirazad99/Duper-Mario/blob/master/SUPER%20MIRAO/Picture1.png) | ![Game Screen 2](https://github.com/abirazad99/Duper-Mario/blob/master/SUPER%20MIRAO/Picture2.png) |
+![Game Screen 1](https://github.com/abirazad99/Duper-Mario/blob/master/SUPER%20MIRAO/Picture1.png)      ![Game Screen 2](https://github.com/abirazad99/Duper-Mario/blob/master/SUPER%20MIRAO/Picture2.png) 
 
 
 Created by 
